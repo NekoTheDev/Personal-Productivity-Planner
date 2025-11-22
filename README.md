@@ -1,18 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<Meta title="📊 Personal Productivity Planner" />
 
-# Run and deploy your AI Studio app
+# Personal Productivity Planner
 
-This contains everything you need to run your app locally.
+A lightweight web application designed to help you plan, organize, and improve your personal productivity.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 Overview
 
+**Personal Productivity Planner** is a simple and structured productivity tool built using TypeScript and modern frontend technologies.  
+It helps you:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Plan daily, weekly, or project-based tasks  
+- Track progress over time  
+- Manage personal habits and routines  
+- Improve focus and productivity  
+
+---
+
+## 🔧 Tech Stack
+
+- **TypeScript**  
+- **React / Vite**  
+- Modular UI components (`/components`)  
+- Service logic & utilities (`/services`)  
+- Strong typing with `types.ts`  
+- Fast development environment using Vite  
+
+---
+
+## 📂 Project Structure
