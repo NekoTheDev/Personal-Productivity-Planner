@@ -30,3 +30,20 @@ It helps you:
 ---
 
 ## 📂 Project Structure
+/components # Reusable UI components
+/services # Business logic, helpers, or mock API
+App.tsx # Root application component
+index.tsx # React DOM entry
+types.ts # Global TypeScript types & interfaces
+vite.config.ts # Vite configuration file
+package.json # Package metadata & scripts
+tsconfig.json # TypeScript config
+metadata.json # Optional metadata
+index.html # App HTML template
+
+
+---
+
+## 🏃‍♂️ Local Development
+
+
